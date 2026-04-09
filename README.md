@@ -1,24 +1,82 @@
-# 💫 About Me:
-🔭 Hi, I am Arnab Guchait<br><br>I am a student of Computer Application and i'm interested to learn about new technologies.
+# 🚀 Arnab Guchait — Developer Portfolio
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnabguchait70@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AGuchait&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AGuchait&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGuchait&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AGuchait&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AGuchait&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Hi, I’m **Arnab Guchait**, a Computer Science student passionate about building real-world applications using AI, web technologies, and modern tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AGuchait&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/arnab-guchait-b2b30228b  
+- 📧 Email: arnabguchait70@gmail.com  
+
+---
+
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Oracle](https://img.shields.io/badge/Oracle-orange?style=for-the-badge&logo=oracle)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
+
+---
+
+## ⚡ About Me
+
+- 🎓 BCA Student  
+- 🤖 Interested in AI & Machine Learning  
+- 🌐 Building projects using Streamlit & TensorFlow  
+- 🧩 Like to solve problems  
+
+---
+
+## 📌 Featured Project
+
+### 🩺 DermaCare AI
+
+An AI-powered skin disease detection system that works completely offline.
+
+- Detects 10+ skin conditions  
+- Uses EfficientNetB0  
+- Built with Streamlit  
+- Fully private (no API usage)  
+
+---
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+## ⚠️ Note
+
+If GitHub stats do not load:
+- Wait a few minutes (API limit issue)
+- Ensure correct username is used
+- Do not refresh repeatedly
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
